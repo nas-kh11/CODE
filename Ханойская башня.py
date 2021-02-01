@@ -20,7 +20,7 @@ c = [0 for i in range(n)]
 a.append('PIN1')
 b.append('PIN2')
 c.append('PIN3')
-f(n,a,b,c) # вызываем функцию
+f(n,a,b,c)
 
 
 
